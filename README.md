@@ -94,9 +94,9 @@ tests/                unit tests
 data/raw/             extracted MiDaS dataset, ignored by git
 data/processed/       prepared ImageFolder dataset, ignored by git
 data/manifests/       split manifest and class mappings
-runs/                 checkpoints and training logs, ignored by git
-reports/metrics/      evaluation outputs, ignored by git
-reports/figures/      generated plots, ignored by git
+runs/                 checkpoints and training logs
+reports/metrics/      evaluation outputs
+reports/figures/      generated plots
 ```
 
 ## Requirements
