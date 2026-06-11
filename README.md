@@ -4,6 +4,8 @@ Image classification project for recognizing Minecraft block types from screensh
 
 The model predicts one of 60 block classes, such as `oak_planks`, `diamond_ore`, `furnace`, `jungle_planks`, or `water`.
 
+![Sample predictions](reports/figures/sample_predictions.png)
+
 ## Features
 
 - Deterministic train/validation/test split with saved manifests.
