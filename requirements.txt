@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+pillow
+scikit-learn
+matplotlib
+tqdm
+pyyaml
+jinja2
+weasyprint
+rich

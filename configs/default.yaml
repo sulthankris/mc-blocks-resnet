@@ -1,0 +1,32 @@
+project:
+  name: minecraft-block-classification
+  seed: 42
+
+data:
+  processed_dir: data/processed
+  manifest_dir: data/manifests
+  image_size: 224
+  batch_size: 64
+  num_workers: 2
+
+model:
+  name: resnet18
+  pretrained: true
+  freeze_backbone: false
+
+training:
+  epochs: 20
+  lr: 0.0003
+  weight_decay: 0.0001
+  optimizer: adamw
+  scheduler: cosine
+  early_stopping_patience: 6
+
+runtime:
+  device: auto
+  deterministic: true
+  amp: false
+
+outputs:
+  runs_dir: runs
+  reports_dir: reports

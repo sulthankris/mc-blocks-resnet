@@ -1,0 +1,23 @@
+poster:
+  language: id
+  size: A2
+  orientation: landscape
+  title: "Klasifikasi Blok Minecraft Menggunakan CNN dan Transfer Learning"
+  subtitle: "Studi klasifikasi citra non-natural pada dataset MiDaS-60 dengan PyTorch"
+  author_name: "Nama Mahasiswa"
+  nim: "NIM"
+  course: "Analisis Data Tidak Terstruktur"
+  program: "S1 Statistika"
+
+assets:
+  required_figures:
+    - class_distribution.png
+    - training_curves.png
+    - confusion_matrix.png
+    - top_misclassifications.png
+    - sample_predictions.png
+    - worst_classes_by_f1.png
+
+rendering:
+  fail_on_missing_assets: true
+  allow_placeholder: false
