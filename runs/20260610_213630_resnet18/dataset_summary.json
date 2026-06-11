@@ -1,0 +1,455 @@
+{
+  "class_counts": {
+    "acacia_log": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "acacia_planks": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "bed": {
+      "test": 91,
+      "total": 599,
+      "train": 419,
+      "val": 89
+    },
+    "birch_log": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "birch_planks": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "bookshelf": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "bricks": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "chest": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "clay": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "coal_ore": {
+      "test": 91,
+      "total": 598,
+      "train": 418,
+      "val": 89
+    },
+    "cobblestone": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "crafting_table": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "crimson_planks": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "dark_oak_log": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "dark_oak_planks": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "diamond_ore": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "diorite": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "dirt": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "dirt_path": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "emerald_ore": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "furnace": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "glass": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "glowstone": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "gold_ore": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "granite": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "grass_block": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "gravel": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "hay_block": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "honey_block": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "ice": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "iron_ore": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "jungle_log": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "jungle_planks": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "lapis_ore": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "lava": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "magma_block": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "melon": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "mossy_cobblestone": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "nether_bricks": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "nether_gold_ore": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "netherrack": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "oak_fence": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "oak_log": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "oak_planks": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "obsidian": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "pumpkin": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "red_mushroom_block": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "redstone_ore": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "sand": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "sandstone": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "slime_block": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "snow_block": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "spruce_log": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "spruce_planks": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "stone": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "terracotta": {
+      "test": 91,
+      "total": 599,
+      "train": 419,
+      "val": 89
+    },
+    "tnt": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "torch": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "warped_stem": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    },
+    "water": {
+      "test": 90,
+      "total": 600,
+      "train": 420,
+      "val": 90
+    }
+  },
+  "created_at_utc": "2026-06-10T14:34:08+00:00",
+  "dataset": "MiDaS",
+  "duplicate_images_removed_by_class": {
+    "acacia_log": 0,
+    "acacia_planks": 0,
+    "bed": 1,
+    "birch_log": 0,
+    "birch_planks": 0,
+    "bookshelf": 0,
+    "bricks": 0,
+    "chest": 0,
+    "clay": 0,
+    "coal_ore": 2,
+    "cobblestone": 0,
+    "crafting_table": 0,
+    "crimson_planks": 0,
+    "dark_oak_log": 0,
+    "dark_oak_planks": 0,
+    "diamond_ore": 0,
+    "diorite": 0,
+    "dirt": 0,
+    "dirt_path": 0,
+    "emerald_ore": 0,
+    "furnace": 0,
+    "glass": 0,
+    "glowstone": 0,
+    "gold_ore": 0,
+    "granite": 0,
+    "grass_block": 0,
+    "gravel": 0,
+    "hay_block": 0,
+    "honey_block": 0,
+    "ice": 0,
+    "iron_ore": 0,
+    "jungle_log": 0,
+    "jungle_planks": 0,
+    "lapis_ore": 0,
+    "lava": 0,
+    "magma_block": 0,
+    "melon": 0,
+    "mossy_cobblestone": 0,
+    "nether_bricks": 0,
+    "nether_gold_ore": 0,
+    "netherrack": 0,
+    "oak_fence": 0,
+    "oak_log": 0,
+    "oak_planks": 0,
+    "obsidian": 0,
+    "pumpkin": 0,
+    "red_mushroom_block": 0,
+    "redstone_ore": 0,
+    "sand": 0,
+    "sandstone": 0,
+    "slime_block": 0,
+    "snow_block": 0,
+    "spruce_log": 0,
+    "spruce_planks": 0,
+    "stone": 0,
+    "terracotta": 1,
+    "tnt": 0,
+    "torch": 0,
+    "warped_stem": 0,
+    "water": 0
+  },
+  "duplicate_images_removed_total": 4,
+  "image_size": 224,
+  "largest_class": {
+    "count": 600,
+    "name": "acacia_log"
+  },
+  "manifest_dir": "D:\\estdy\\Andat\\proyek-uas\\data\\manifests",
+  "max_per_class": 0,
+  "num_classes": 60,
+  "num_images": 35996,
+  "processed_dir": "D:\\estdy\\Andat\\proyek-uas\\data\\processed",
+  "ratios": {
+    "test": 0.15,
+    "train": 0.7,
+    "val": 0.15
+  },
+  "raw_dir": "D:\\estdy\\Andat\\proyek-uas\\data\\raw",
+  "seed": 42,
+  "smallest_class": {
+    "count": 598,
+    "name": "coal_ore"
+  },
+  "split_counts": {
+    "test": 5403,
+    "train": 25196,
+    "val": 5397
+  }
+}

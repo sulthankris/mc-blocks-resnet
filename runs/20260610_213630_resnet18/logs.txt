@@ -1,0 +1,4 @@
+2026-06-10 21:36:30,303 INFO Processed data: D:\estdy\Andat\proyek-uas\data\processed
+2026-06-10 21:36:30,303 INFO Manifest directory: D:\estdy\Andat\proyek-uas\data\manifests
+2026-06-10 21:36:30,748 INFO Training resnet18 on cuda
+2026-06-10 21:40:24,397 INFO epoch=1 train_loss=0.3394 train_acc=0.9248 val_loss=0.2008 val_acc=0.9400 val_macro_f1=0.9391 best_epoch=1

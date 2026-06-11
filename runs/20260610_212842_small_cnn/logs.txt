@@ -1,0 +1,4 @@
+2026-06-10 21:28:42,083 INFO Processed data: D:\estdy\Andat\proyek-uas\data\processed_smoke
+2026-06-10 21:28:42,083 INFO Manifest directory: D:\estdy\Andat\proyek-uas\data\manifests_smoke
+2026-06-10 21:28:42,237 INFO Training small_cnn on cuda
+2026-06-10 21:28:45,759 INFO epoch=1 train_loss=4.2932 train_acc=0.0111 val_loss=4.1046 val_acc=0.0333 val_macro_f1=0.0060 best_epoch=1

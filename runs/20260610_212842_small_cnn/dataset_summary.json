@@ -1,0 +1,392 @@
+{
+  "class_counts": {
+    "acacia_log": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "acacia_planks": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "bed": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "birch_log": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "birch_planks": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "bookshelf": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "bricks": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "chest": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "clay": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "coal_ore": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "cobblestone": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "crafting_table": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "crimson_planks": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "dark_oak_log": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "dark_oak_planks": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "diamond_ore": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "diorite": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "dirt": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "dirt_path": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "emerald_ore": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "furnace": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "glass": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "glowstone": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "gold_ore": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "granite": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "grass_block": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "gravel": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "hay_block": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "honey_block": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "ice": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "iron_ore": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "jungle_log": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "jungle_planks": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "lapis_ore": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "lava": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "magma_block": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "melon": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "mossy_cobblestone": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "nether_bricks": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "nether_gold_ore": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "netherrack": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "oak_fence": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "oak_log": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "oak_planks": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "obsidian": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "pumpkin": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "red_mushroom_block": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "redstone_ore": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "sand": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "sandstone": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "slime_block": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "snow_block": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "spruce_log": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "spruce_planks": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "stone": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "terracotta": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "tnt": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "torch": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "warped_stem": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    },
+    "water": {
+      "test": 1,
+      "total": 5,
+      "train": 3,
+      "val": 1
+    }
+  },
+  "created_at_utc": "2026-06-10T14:27:44+00:00",
+  "dataset": "MiDaS",
+  "image_size": 128,
+  "largest_class": {
+    "count": 5,
+    "name": "acacia_log"
+  },
+  "manifest_dir": "D:\\estdy\\Andat\\proyek-uas\\data\\manifests_smoke",
+  "max_per_class": 5,
+  "num_classes": 60,
+  "num_images": 300,
+  "processed_dir": "D:\\estdy\\Andat\\proyek-uas\\data\\processed_smoke",
+  "ratios": {
+    "test": 0.15,
+    "train": 0.7,
+    "val": 0.15
+  },
+  "raw_dir": "D:\\estdy\\Andat\\proyek-uas\\data\\raw",
+  "seed": 42,
+  "smallest_class": {
+    "count": 5,
+    "name": "acacia_log"
+  },
+  "split_counts": {
+    "test": 60,
+    "train": 180,
+    "val": 60
+  }
+}

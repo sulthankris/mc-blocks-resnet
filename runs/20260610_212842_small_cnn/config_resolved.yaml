@@ -1,0 +1,27 @@
+project:
+  name: minecraft-block-classification-smoke
+  seed: 42
+data:
+  processed_dir: data\processed_smoke
+  manifest_dir: data\manifests_smoke
+  image_size: 128
+  batch_size: 8
+  num_workers: 0
+model:
+  name: small_cnn
+  pretrained: false
+  freeze_backbone: false
+training:
+  epochs: 1
+  lr: 0.001
+  weight_decay: 0.0001
+  optimizer: adam
+  scheduler: none
+  early_stopping_patience: 2
+runtime:
+  device: auto
+  deterministic: true
+  amp: false
+outputs:
+  runs_dir: runs
+  reports_dir: reports

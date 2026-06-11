@@ -1,0 +1,13 @@
+2026-06-11 11:32:09,606 INFO Processed data: D:\estdy\Andat\proyek-uas\data\processed
+2026-06-11 11:32:09,606 INFO Manifest directory: D:\estdy\Andat\proyek-uas\data\manifests
+2026-06-11 11:32:10,156 INFO Training resnet18 on cpu
+2026-06-11 11:56:44,703 INFO epoch=1 train_loss=0.3351 train_acc=0.9251 val_loss=0.1633 val_acc=0.9526 val_macro_f1=0.9521 best_epoch=1
+2026-06-11 12:20:30,174 INFO epoch=2 train_loss=0.0736 train_acc=0.9786 val_loss=0.0837 val_acc=0.9733 val_macro_f1=0.9734 best_epoch=2
+2026-06-11 12:45:08,422 INFO epoch=3 train_loss=0.0475 train_acc=0.9874 val_loss=0.0810 val_acc=0.9772 val_macro_f1=0.9772 best_epoch=3
+2026-06-11 13:08:04,329 INFO epoch=4 train_loss=0.0445 train_acc=0.9875 val_loss=0.0737 val_acc=0.9789 val_macro_f1=0.9772 best_epoch=4
+2026-06-11 13:31:40,016 INFO epoch=5 train_loss=0.0298 train_acc=0.9919 val_loss=0.0806 val_acc=0.9755 val_macro_f1=0.9756 best_epoch=4
+2026-06-11 13:54:25,193 INFO epoch=6 train_loss=0.0354 train_acc=0.9901 val_loss=0.0221 val_acc=0.9944 val_macro_f1=0.9944 best_epoch=6
+2026-06-11 14:17:25,299 INFO epoch=7 train_loss=0.0148 train_acc=0.9956 val_loss=0.0213 val_acc=0.9939 val_macro_f1=0.9939 best_epoch=6
+2026-06-11 14:39:48,150 INFO epoch=8 train_loss=0.0178 train_acc=0.9949 val_loss=0.0763 val_acc=0.9811 val_macro_f1=0.9811 best_epoch=6
+2026-06-11 15:03:22,837 INFO epoch=9 train_loss=0.0159 train_acc=0.9952 val_loss=0.0498 val_acc=0.9865 val_macro_f1=0.9865 best_epoch=6
+2026-06-11 15:14:21,420 WARNING Training interrupted; saving partial last_model.pt if possible.
